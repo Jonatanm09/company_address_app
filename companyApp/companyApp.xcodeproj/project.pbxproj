@@ -17,6 +17,7 @@
 		BE4FEA04261E65D400F267BB /* Client.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA03261E65D400F267BB /* Client.swift */; };
 		BE4FEA0C261E692400F267BB /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA0B261E692400F267BB /* Session.swift */; };
 		BE4FEA0F261E6B9B00F267BB /* ClientsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA0E261E6B9B00F267BB /* ClientsViewController.swift */; };
+		BE4FEA13261E6F6300F267BB /* ClientesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA12261E6F6300F267BB /* ClientesTableViewCell.swift */; };
 		BE4FEA17261E7E8000F267BB /* AddressTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA16261E7E8000F267BB /* AddressTableViewCell.swift */; };
 		BE4FEA1A261E7EFF00F267BB /* AddClientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA19261E7EFF00F267BB /* AddClientViewController.swift */; };
 		BE4FEA1D261E8A3500F267BB /* MyAdressViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE4FEA1C261E8A3500F267BB /* MyAdressViewController.swift */; };
